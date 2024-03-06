@@ -1,6 +1,8 @@
 # Challanges
 Gives you challenges
 
+IMPORTANT: EXTRACT BEFORE USE
+
 
 
 Available games
