@@ -12,3 +12,5 @@ Available games
  Valorant
  Fall Guys
  Rocket League
+
+ to use, click on the location of this folder, type powershell and click enter, then type .\run.exe
