@@ -6,6 +6,7 @@ IMPORTANT: EXTRACT BEFORE USE
 
 
 Available games
+
  Roblox Bedwars
  
  Minecraft Bedwars
